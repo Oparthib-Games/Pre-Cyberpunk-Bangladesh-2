@@ -5,7 +5,7 @@
     a third person shooter movement sandbox
 </p>
 
-<p align="center"><a href="https://youtu.be/loE-Y9HMj1A" target="_blank"><img src="/third-person-shooter.png" width="800"></a></p>
 <p align="center"><a href="https://youtu.be/loE-Y9HMj1A" target="_blank"><img src="/tpsm.jpg" width="800"></a></p>
+<p align="center"><a href="https://youtu.be/loE-Y9HMj1A" target="_blank"><img src="/third-person-shooter.png" width="800"></a></p>
 
 <p>-- Developed by Rifat</p>
