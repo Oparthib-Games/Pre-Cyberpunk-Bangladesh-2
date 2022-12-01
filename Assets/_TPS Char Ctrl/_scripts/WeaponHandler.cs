@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class WeaponHandler : MonoBehaviour
 {
-    Animator anim;
+    public Animator anim;
 
     [System.Serializable]
     public class UserSettings
